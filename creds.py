@@ -1,4 +1,4 @@
 username = 'ken'
-password = 'Romans 6:23!'
+password = 'foo'
 host     = 'localhost'
 database = 'pets'
